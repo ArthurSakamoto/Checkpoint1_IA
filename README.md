@@ -20,7 +20,7 @@ Para esse programa é necessario ter o pyhton instalado, junto do pacote pandas.
 
 Para clonar esse repositório:
 
-cd /home/user
-git clone https://github.com/ArthurSakamoto/Checkpoint1_IA.git
-cd Checkpoint1_IA
-ls
+    cd /home/user
+    git clone https://github.com/ArthurSakamoto/Checkpoint1_IA.git
+    cd Checkpoint1_IA
+    ls
